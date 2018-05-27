@@ -4,7 +4,7 @@ Under centos7 nagios plugin,use python2.7.
                                 
 
 
-[K](https://www.baidu.com "ktianc")
-<p>Programming rich life</p>
+[K](https://www.ktianc.com "ktianc")
+    Programming rich life
 
 
